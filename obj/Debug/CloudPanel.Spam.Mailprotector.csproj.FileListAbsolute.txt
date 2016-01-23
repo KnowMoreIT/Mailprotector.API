@@ -1,0 +1,7 @@
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\bin\Debug\CloudPanel.Spam.Mailprotector.dll
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\bin\Debug\CloudPanel.Spam.Mailprotector.pdb
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\obj\Debug\CloudPanel.Spam.Mailprotector.dll
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\obj\Debug\CloudPanel.Spam.Mailprotector.pdb
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\bin\Debug\RestSharp.dll
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\bin\Debug\RestSharp.xml
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\obj\Debug\CloudPanel.Spam.Mailprotector.csprojResolveAssemblyReference.cache

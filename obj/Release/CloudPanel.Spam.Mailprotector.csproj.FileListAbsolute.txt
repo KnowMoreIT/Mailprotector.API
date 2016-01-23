@@ -1,0 +1,5 @@
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\bin\Release\CloudPanel.Spam.Mailprotector.dll
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\bin\Release\CloudPanel.Spam.Mailprotector.pdb
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\obj\Release\CloudPanel.Spam.Mailprotector.csprojResolveAssemblyReference.cache
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\obj\Release\CloudPanel.Spam.Mailprotector.dll
+E:\Programming\CloudPanel\CloudPanel.Spam.Mailprotector\obj\Release\CloudPanel.Spam.Mailprotector.pdb
